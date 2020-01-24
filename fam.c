@@ -3,7 +3,7 @@ struct student
 {
 	char name[50];
 	int age;
-	float marks;
+	float mark;
 }s;
 void main()
 {
