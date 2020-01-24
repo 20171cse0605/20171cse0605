@@ -10,7 +10,7 @@ void main()
 	printf("enter the stud i8nfo\n");
 	printf("enter the name\n");
 	gets(s.name);
-	printf("enter the age\n");
+	printf("enter the age of a person\n");
 	scanf("%d",&s.age);
 	printf("enter the marks\n");
 	scanf("%f",&s.marks);
