@@ -8,7 +8,7 @@ struct student
 void main()
 {
 	printf("enter the stud i8nfo\n");
-	printf("enter nam\n");
+	printf("enter the name\n");
 	gets(s.name);
 	printf("enter the age\n");
 	scanf("%d",&s.age);
