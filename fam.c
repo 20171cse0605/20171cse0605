@@ -14,6 +14,6 @@ void main()
 	scanf("%d",&s.age);
 	printf("enter the marks\n");
 	scanf("%f",&s.marks);
-	printf("the student details are\n");
+	printf("the student details are\n")
 	printf("name=%s\nage=%d\nmarks=%f\n",s.name,s.age,s.marks);
 }
