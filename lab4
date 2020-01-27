@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>This is Definition list Example</title>
+</head>
+<body>
+<DL>
+<DT>Red</DT>
+<DD>Love</DD>
+<DT>Blue</DT>
+<DD>Calmness</DD>
+<DT>Green</DT>
+<DD>Nature</DD>
+</body>
+</html>
